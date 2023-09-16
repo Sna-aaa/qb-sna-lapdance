@@ -19,6 +19,6 @@ ensure qb-sna-lapdance
 
 ## Credits
 Thanks to those projects for the ideas that made possible this one
-https://github.com/clementinise/qb-lapdance
-https://github.com/ThePyromaniac/esx_strippers
+- https://github.com/clementinise/qb-lapdance
+- https://github.com/ThePyromaniac/esx_strippers
 
