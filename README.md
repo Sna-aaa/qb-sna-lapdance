@@ -2,13 +2,13 @@
 Dancers and poledancers at the Unicorn and lapdances for QBCore
 
 ## Features
--Private dances menu is triggered from an NPC
--Private dances menu contains:
-	-Private dance (Dancer is at distance)
-	-Lapdance (Dancer is near you)
-    -Double lapdance (2 Dancers near you)
--Dancers on the stage at Unicorn
--Nudity can be configured and depends on the character age
+- Private dances menu is triggered from an NPC
+- Private dances menu contains:
+    - Private dance (Dancer is at distance)
+	- Lapdance (Dancer is near you)
+    - Double lapdance (2 Dancers near you)
+- Dancers on the stage at Unicorn
+- Nudity can be configured and depends on the character age
 
 ## Dependencies
 - [qb-core]
