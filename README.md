@@ -18,7 +18,7 @@ Dancers and poledancers at the Unicorn and lapdances for QBCore
 ensure qb-sna-lapdance
 
 ## Credits
-Thanks to those projects for the ideas that made possible this one
+Thanks to those projects for the ideas that made this one possible
 - https://github.com/clementinise/qb-lapdance
 - https://github.com/ThePyromaniac/esx_strippers
 
